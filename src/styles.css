@@ -1,0 +1,22 @@
+* {
+  font-family: "Lato", sans-serif;
+  font-size: 16px;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.main-logo {
+  width: 4em;
+}
+
+.link {
+  text-decoration: none;
+  color: #3a1212;
+}
+
+.navbar {
+  padding: 1em 1em;
+}
