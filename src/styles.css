@@ -20,3 +20,15 @@
 .navbar {
   padding: 1em 1em;
 }
+
+.recipe-search {
+  width: 360px;
+}
+
+.search-button {
+}
+
+.search-wrapper {
+  display: flex;
+  flex-direction: row;
+}
